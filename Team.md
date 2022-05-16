@@ -16,6 +16,8 @@
 #### 참고문헌
 ##### 전이학습 : (https://wikidocs.net/104197)
 ##### 단계별 전이 학습 기반 신경망을 활용한 작물 병해 분류 : (http://lps3.www.dbpia.co.kr.libproxy.andong.ac.kr/pdf/pdfView.do?nodeId=NODE10755939)
+##### 합성곱 신경망을 이용하는 수퍼픽셀 기반 사과잎 병충해의 분류 : (http://www.kibme.org/resources/journal/20200414104137713.pdf)
+##### 파이썬 프로젝트 CNN 식물 병충해 시각화 및 모델 개선 : (https://0goodmorning.tistory.com/50)
 
 #### 팀과제 일정 
 ##### 5/16일 회의를 통한 주제 선정
